@@ -1,0 +1,17 @@
+                                IMPORTANT
+                                ---------
+
+                  If you read nothing else, read this first:
+
+Before World Clock can be of any real use to you, you need to tell it where
+you live. Do this by clicking on the "?" icon in the lower right of the
+window. This will give you a popup menu. Select the "Edit Places" option.
+
+In the "Edit Places" dialog, you will see some information about the
+various places World Clock knows about by default. What you need to do is
+choose a place which is in the same time zone as you currently are, and
+uses the same method for daylight savings.
+
+Scroll though the list of places by using the "+" and "-" buttons next to
+the name of the current place. Don't worry if you live in Florida and the
+closest thing you can find is New York. That's good enough for now.

@@ -1,0 +1,17 @@
+worldclk.prg
+=
+
+PCSTART.O
+
+dat.c [-P]
+worldclk.c [-P]
+menus.c [-P]
+gui.c
+sunclock.c
+
+PCFLTLIB.LIB	; must come before stdlib
+new_gem.LIB
+PCSTDLIB.LIB
+;PCEXTLIB.LIB
+PCTOSLIB.LIB
+multevnt.o
